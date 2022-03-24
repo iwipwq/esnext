@@ -1,1 +1,2 @@
 # esnext
+babel/webpack
