@@ -1,6 +1,9 @@
 {
   "name": "devenv",
   "version": "1.0.0",
+  "scripts": {
+    "build": "babel src/js -w -d dist/js"
+  },
   "devDependencies": {
     "@babel/cli": "^7.17.6",
     "@babel/core": "^7.17.8",
